@@ -25,6 +25,17 @@ Aplicación para Android desarrollada con **Jetpack Compose** y **Material Desig
 
 ---
 
+## 📸 Capturas de Pantalla
+
+| Modo Claro (Inicio) | Modo Claro (Scroll) | Modo Oscuro (Inicio) | Modo Oscuro (Scroll) |
+|:---:|:---:|:---:|:---:|
+| ![Modo Claro Inicio](screenshots/1_tema_claro_inicio.png) | ![Modo Claro Scroll](screenshots/2_tema_claro_scroll.png) | ![Modo Oscuro Inicio](screenshots/3_tema_oscuro_inicio.png) | ![Modo Oscuro Scroll](screenshots/4_tema_oscuro_scroll.png) |
+
+### Vista Horizontal (Landscape)
+![Modo Horizontal](screenshots/5_modo_horizontal_landscape.png)
+
+---
+
 ## 🛠️ Tecnologías y Requisitos
 
 - **Kotlin** 2.1.0
